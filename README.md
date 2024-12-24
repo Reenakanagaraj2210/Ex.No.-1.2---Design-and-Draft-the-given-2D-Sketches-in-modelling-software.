@@ -35,7 +35,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![Screenshot (145)](https://github.com/user-attachments/assets/e58e1b72-3555-46a2-b875-0c05c4b03804)
+ ![edm exe1 2](https://github.com/user-attachments/assets/bc0ae46a-5d25-4127-97e1-1b01c6ac5780)
+
 
  
  ## RESULT
